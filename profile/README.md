@@ -6,7 +6,7 @@ Welcome to **TheDisorderedOrganization**! We are a collective of researchers, pr
 - **[Arianna](https://github.com/TheDisorderedOrganization/Arianna)** – A general framework for system-agnostic Monte Carlo simulations in Julia, providing a modular backend for custom systems and moves, as well as an adaptive sampling techniques.
 - **[ParticlesMC](https://github.com/TheDisorderedOrganization/ParticlesMC)** – A Monte Carlo package for particle systems, built on Arianna, supporting atomic and molecular simulations with advanced Monte Carlo moves, and various interaction models.
 - **SpinMC (Upcoming)** – A Monte Carlo package for spin systems, extending Arianna to handle spin degrees of freedom with specialized moves and models.
-- **[Nexus-CAT](https://github.com/TheDisorderedOrganization/Nexus-CAT)** – A Cluster Analysis Toolkit designed to identify and analyze clusters of connected polyhedra in atomistic simulations.
+- **[Nexus-CAT](https://github.com/TheDisorderedOrganization/nexus)** – A Cluster Analysis Toolkit designed to identify and analyze clusters of connected polyhedra in atomistic simulations.
 
 We are continuously expanding our ecosystem with new tools for research in statistical physics and computational materials science.
 
